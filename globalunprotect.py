@@ -38,8 +38,6 @@ Examples:
 
   # Encrypt a plaintext XML (for research)
   ./gp_decrypt_linux.py --encrypt --infile config.xml --outfile out.dat
-
-Requires: pip install cryptography
 """
 
 import argparse
